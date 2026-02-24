@@ -1,0 +1,5 @@
+{
+  "name": "STUDIO MAX: AI Movie Studio",
+  "description": "A high-quality multi-lingual Movie Studio powered by Gemini 2.5 Flash and FLUX. Supports Bangla, English, Hindi, German, and more with instant playback, high-quality WAV downloads, and FLUX image generation.",
+  "requestFramePermissions": []
+}
